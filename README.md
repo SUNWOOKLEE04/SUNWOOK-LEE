@@ -1,7 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Sunwook)" />
-  type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Sunwook" />
 </div>
 
 <!--내용 부분-->
