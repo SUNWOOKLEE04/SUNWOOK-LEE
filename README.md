@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pinescript-00B453.svg?style=for-the-badge&logo=pinescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
